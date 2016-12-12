@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Mon Dec 12 03:47:54 BRST 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0158-f192-b997-00000c957e70 
-on database directory /home/jorge/workspace/wowlogs/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@242c5842 
-Loaded from file:/home/jorge/ferramentas/spark/spark-202/jars/derby-10.12.1.1.jar
+Mon Dec 12 13:47:44 BRST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0158-f3b7-e38e-000007c53628 
+on database directory /home/jorge/workspace/wow_log/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1fb2d5e 
+Loaded from file:/home/jorge/ferramentas/spark/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.7.0_101-b00
-user.dir=/home/jorge/workspace/wowlogs
+java.runtime.version=1.8.0_111-8u111-b14-2ubuntu0.16.04.2-b14
+user.dir=/home/jorge/workspace/wow_log
 os.name=Linux
 os.arch=amd64
-os.version=4.2.0-42-generic
+os.version=4.4.0-45-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
